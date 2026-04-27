@@ -18,6 +18,7 @@
   </picture>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoZhang-qd)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
