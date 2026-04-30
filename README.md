@@ -24,7 +24,7 @@
 
 ### 🔍 我熟悉的领域 (Familiar)
 
-|<a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"></a>|<a href="https://aws.amazon.com/"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="40"></a>|<a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="40"></a>|<a href="https://go.dev/"><img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" height="40"></a>|
+| <a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"></a>| <a href="https://aws.amazon.com/"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="40"></a>| <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="40"></a>| <a href="https://go.dev/"><img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" height="40"></a>|
 |---|---|---|---|
 |<a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="40"></a>|<a href="https://www.oracle.com/"><img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="40"></a>|<a href="https://www.arduino.cc/"><img src="https://profilinator.rishav.dev/skills-assets/arduino.png" height="40"></a>|<a href="https://www.haskell.org/"><img src="https://profilinator.rishav.dev/skills-assets/haskell.png" height="40"></a>|
 
