@@ -22,6 +22,7 @@
 | <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="40" /></a> | <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="40" /></a> | <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" /></a> | <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" /></a> | |
 
 ### 🔍 我熟悉的领域 (Familiar)
+
 | | | | |
 | :---: | :---: | :---: | :---: |
 | <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a> | <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /></a> | <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a> | <a href="https://go.dev/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" /></a> |
