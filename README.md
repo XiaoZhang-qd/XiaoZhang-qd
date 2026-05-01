@@ -12,9 +12,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="snake.svg">
-  <img alt="GitHub Snake Contribution" src="snake.svg">
+  <source media="prefers-color-scheme:dark" srcset="snake-dark.svg">
+  <img src="snake.svg" alt="Snake">
 </picture>
 
 
