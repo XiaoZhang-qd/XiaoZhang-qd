@@ -18,6 +18,9 @@
 </picture>
 
 
+![](https://komarev.com/ghpvc/?username=xiaozhang-qd)
+
+
 
 ### ✅ 我擅长的技能 (Proficient)
 
