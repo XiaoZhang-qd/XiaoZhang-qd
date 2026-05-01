@@ -1,26 +1,26 @@
-name: Generate GitHub Snake
+name: Snake Contribution Grid Animation
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天 0 点自动更新
-  workflow_dispatch:    # 允许手动点一下运行
+    cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
+      - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: xiaozhang-qd
           outputs: |
-            github-snake.svg
-            github-snake-dark.svg?palette=github-dark
+            snake.svg
+            snake-dark.svg?palette=github-dark
 
-      - name: Commit to repo
+      - name: Commit & Push
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Update snake animation"
-          add: "github-snake*.svg"
+          default_author: github_actions
+          message: Update snake svg
