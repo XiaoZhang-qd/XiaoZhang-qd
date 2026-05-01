@@ -11,7 +11,11 @@
 | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) | 
 
 
-![Snake](https://github-readme-snake.vercel.app/api?username=xiaozhang-qd)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaozhang-qd/xiaozhang-qd/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaozhang-qd/xiaozhang-qd/output/github-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xiaozhang-qd/xiaozhang-qd/output/github-snake.svg">
+</picture>
 
 
 
