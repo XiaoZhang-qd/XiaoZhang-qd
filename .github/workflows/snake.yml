@@ -1,8 +1,8 @@
-name: All Theme GitHub Snake
+name: All Custom Color Snake
 on:
   workflow_dispatch:
   schedule:
-    cron: "0 0 * * *"
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -11,20 +11,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate ALL themes snake svg
+      - name: Generate All Custom Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/light.svg?palette=github-light
-            dist/dark.svg?palette=github-dark
-            dist/ocean.svg?palette=ocean
-            dist/pink.svg?palette=pink
-            dist/halloween.svg?palette=halloween
-            dist/contrast.svg?palette=high-contrast
-            dist/neon.svg?color_snake=#00ffff&color_dots=#ff00ff,#00ffff,#ffff00
+            dist/white-base.svg?palette=github-light&color_snake=#2563eb
+            dist/dark-base.svg?palette=github-dark&color_snake=#38bdf8
+            dist/ocean-blue.svg?palette=ocean&color_snake=#06b6d4
+            dist/pink-girl.svg?palette=pink&color_snake=#ec4899
+            dist/hall-orange.svg?palette=halloween&color_snake=#f97316
+            dist/neon-cyber.svg?palette=high-contrast&color_snake=#00ffff
+            dist/gold-luxury.svg?palette=github-dark&color_snake=#fbbf24
 
-      - name: Push all images to output branch
+      - name: Push All To Output
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
