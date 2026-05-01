@@ -1,5 +1,7 @@
 # Hi
 
+![](https://komarev.com/ghpvc/?username=xiaozhang-qd)
+
 # 我是[XiaoZhang-qd](https://github.com/XiaoZhang-qd)，一位全栈的个人自由开发者
 
 ## 我在这里还有些不足，请多多关照。
@@ -16,9 +18,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaozhang-qd/xiaozhang-qd/output/white-base.svg">
   <img src="https://raw.githubusercontent.com/xiaozhang-qd/xiaozhang-qd/output/neon-cyber.svg">
 </picture>
-
-
-![](https://komarev.com/ghpvc/?username=xiaozhang-qd)
 
 
 
