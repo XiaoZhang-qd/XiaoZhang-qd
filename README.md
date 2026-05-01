@@ -11,7 +11,7 @@
 | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) | 
 
 
-![Snake](https://xiaozhang-qd.github.io/xiaozhang-qd/github-snake.svg)
+![Snake](https://github-readme-snake.vercel.app/api?username=xiaozhang-qd)
 
 
 
