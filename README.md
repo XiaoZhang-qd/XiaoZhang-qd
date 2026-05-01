@@ -12,9 +12,9 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaozhang-qd/xiaozhang-qd/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaozhang-qd/xiaozhang-qd/output/github-contribution-grid-snake.svg">
- <img alt="snake" src="https://raw.githubusercontent.com/xiaozhang-qd/xiaozhang-qd/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaozhang-qd/xiaozhang-qd/output/dark-base.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaozhang-qd/xiaozhang-qd/output/white-base.svg">
+  <img src="https://raw.githubusercontent.com/xiaozhang-qd/xiaozhang-qd/output/neon-cyber.svg">
 </picture>
 
 
