@@ -1,5 +1,7 @@
 # Hi
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=800&height=80&lines=Hi%F0%9F%91%8B!+I+am+XZ.;A+developer+driven+by+curiosity;Building+tools;Exploring+systems+and+experimenting+with+technology.)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=xiaozhang-qd)
 
 # 我是[XiaoZhang-qd](https://github.com/XiaoZhang-qd)，一位全栈的个人自由开发者
